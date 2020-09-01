@@ -49,7 +49,7 @@
 \author{
  Allingham, David \email{David.Allingham@newcastle.edu.au}
 
- Best, D.J. \email{John.Best@newcastle.edu.au}
+ Best, D.J.
 }
 \examples{
  # Analyse the sample data set provided with this package:
